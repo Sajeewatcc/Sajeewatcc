@@ -1,7 +1,7 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://qph.cf2.quoracdn.net/main-qimg-c94aa04cf17c1a8034651d98d180874d)
 <h1 align="center">Hi 👋, I'm Sajeewa Dilshan</h1>
 <h3 align="center">Motivated graduate with excellent analytical and communication skills looking for an entry level position as a Data Scientist</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/604444/screenshots/3137776/media/a8ef93cec3fc5157c412bb9b1ea7dc24.gif">
+<img align="center" alt="Coding" width="400" src="https://www.datatobiz.com/wp-content/uploads/2022/09/Dimensionality-Reduction-Techniques-in-Data-Science.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajeewatcc&label=Profile%20views&color=0e75b6&style=flat" alt="sajeewatcc"/> </p>
 
