@@ -1,4 +1,4 @@
-![MasterHead](https://qph.cf2.quoracdn.net/main-qimg-c94aa04cf17c1a8034651d98d180874d)
+![MasterHead](https://www.hslu.ch/-/media/campus/common/images/moodboard/w/data-science-hslu-brainwave-hackyourbrain.gif?la=en&centercrop=1&h=420&w=1306&usecustomfunctions=1)
 <h1 align="center">Hi 👋, I'm Sajeewa Dilshan</h1>
 <h3 align="center">Motivated graduate with excellent analytical and communication skills looking for an entry level position as a Data Scientist</h3>
 <img align="center" alt="Coding" width="400" src="https://www.datatobiz.com/wp-content/uploads/2022/09/Dimensionality-Reduction-Techniques-in-Data-Science.gif">
